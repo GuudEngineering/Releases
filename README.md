@@ -1,1 +1,1 @@
-Releases straight from the R&D deparment.
+Releases straight from the R&D department.
